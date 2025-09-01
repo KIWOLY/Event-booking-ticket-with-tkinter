@@ -39,3 +39,12 @@ Database: SQLite3
 
 API Communication: HTTP between Tkinter and DRF
 
+🙌 Welcome Collaborators
+
+We welcome contributions from developers, designers, and testers!
+
+Fork the repo and create a pull request
+
+Report bugs or suggest features in the issues tab
+
+Improve documentation or UI
